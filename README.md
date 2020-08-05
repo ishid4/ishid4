@@ -41,4 +41,3 @@
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [mysql]: https://www.mysql.com/
 [visualstudiocode]: https://code.visualstudio.com/
-[cplusplus]: http://www.cplusplus.com/doc/tutorial/
