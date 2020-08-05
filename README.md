@@ -1,5 +1,5 @@
 ### Hi there, I'm Eren - aka [ishid4][thatsme] 👋
-### Ishida is a character in an anime named Bleach. 👀
+## Ishida is a character in an anime named Bleach. 👀
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [Gardener Bot][gardenerbot]!
