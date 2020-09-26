@@ -1,10 +1,8 @@
-### Hi there, I'm Eren - aka [ishid4][thatsme] 👋
-### Ishida is a character in an anime named Bleach. 👀
+Hello, I'm Eren - aka [ishid4][thatsme]. Ishida is a character in an anime named Bleach. 
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [Gardener Bot][gardenerbot]!
 - 🌱 I’m currently learning Artificial Intelligence and Deno 🎇
-- 👯 I’m looking to collaborate with other content creators
 
 <br />
 
