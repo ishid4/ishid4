@@ -18,13 +18,6 @@ Hello, I'm Eren - aka [ishid4][thatsme]. Ishida is a character in an anime named
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
 <br />
-
-## Tools
-
-[<img align="left" alt="Atom Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atomeditor]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
-
-<br />
 <br />
 
 <img align="left" alt="ishid4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishid4&show_icons=true&hide_border=true" />
@@ -36,7 +29,5 @@ Hello, I'm Eren - aka [ishid4][thatsme]. Ishida is a character in an anime named
 [reactjs]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [deno]: https://deno.land/
-[atomeditor]: https://atom.io/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [mysql]: https://www.mysql.com/
-[visualstudiocode]: https://code.visualstudio.com/
