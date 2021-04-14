@@ -1,11 +1,13 @@
 Hello, I'm Eren - aka [ishid4][thatsme]. Ishida is a character in an anime named Bleach. 
 
+<br>
+
 ## I'm a Developer!
 - I’m currently working on a [Gardener Bot][gardenerbot]!
 - I’m currently learning Artificial Intelligence and Deno 
 - Developing games on Unity
 
-<br />
+<br>
 <br>
 
 ## GitHub Stats
