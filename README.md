@@ -3,8 +3,8 @@ Hello, I'm Eren - aka [ishid4][thatsme]. Ishida is a character in an anime named
 <br>
 
 ## I'm a Developer!
-- I’m currently working on a [Gardener Bot][gardenerbot]!
-- I’m currently learning Artificial Intelligence and Deno 
+- I'm currently working on making a personal website
+- I’m currently learning Artificial Intelligence, Flutter, React Native
 - Developing games on Unity
 
 <br>
@@ -25,11 +25,9 @@ Hello, I'm Eren - aka [ishid4][thatsme]. Ishida is a character in an anime named
 <br>
 
 [thatsme]: https://github.com/ishid4
-[gardenerbot]: https://github.com/ishid4/GardenerBot
 [python]: https://www.python.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [reactjs]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
-[deno]: https://deno.land/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [mysql]: https://www.mysql.com/
